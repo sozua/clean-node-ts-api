@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Diogo de Souza <diogosrpriv@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:staged": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^27.0.2",
     "@types/node": "^16.10.1",
@@ -19,8 +23,5 @@
     "lint-staged": "^11.1.2",
     "ts-jest": "^27.0.5",
     "typescript": "^4.4.3"
-  },
-  "scripts": {
-    "test": "jest"
   }
 }

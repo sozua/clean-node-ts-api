@@ -12,6 +12,7 @@
     "@typescript-eslint/no-misused-promises": "off",
     "@typescript-eslint/no-namespace": "off",
     "@typescript-eslint/camelcase": "off",
+    "space-before-function-paren": "off",
     "import/export": "off"
   }
 }
